@@ -48,7 +48,6 @@ public class SectionsPagerAdapter extends FragmentPagerAdapter {
 
     @Nullable
     @Override
-
     public CharSequence getPageTitle(int position) {
         Locale l = Locale.getDefault();
         String titre="";
